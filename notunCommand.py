@@ -4,8 +4,8 @@ our_comm = sys.argv[1]
 m = sys.argv[2]
 o = sys.argv[3]
 
-if our_comm == "jure_de_bokachoda":
+if our_comm == "conCatThat":
     print(m+o)
 else: 
-    print("apke comment me khed hay sudipto ke gand me ched hey")
+    print("doya kore thik thak likhun. dhyonnobad")
 
