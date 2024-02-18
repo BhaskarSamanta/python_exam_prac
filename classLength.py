@@ -17,12 +17,14 @@ class Length:
 
 #Example usage:
 length1 = Length(5, 8)
+
 length2 = Length(3, 2)
 
-print("Length 1:", length1)
-print("Length 2:", length2)
+length3=Length(4,6)
 
-sum_length = length1 + length2
+print("Length 1:", length1)
+print("Length 2:", length3)
+
+sum_length = length1 + length3
 print("Sum of Length 1 and Length 2:", sum_length)
-        
         
