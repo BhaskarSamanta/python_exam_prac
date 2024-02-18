@@ -11,7 +11,7 @@ for i in temp1:
             break
         else:
             print('false') 
-            continue    
+               
 
             
 
